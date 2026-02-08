@@ -1,0 +1,8 @@
+transformers
+sentence-transformers
+faiss-cpu
+langchain
+langchain-text-splitters
+numpy
+fastapi
+uvicorn[standard]
